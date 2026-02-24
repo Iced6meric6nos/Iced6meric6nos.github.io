@@ -1,0 +1,48 @@
+/* The Great Reset */
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+
+.header-section{
+    display: flex;
+}
+
+.hero-btn{
+    margin-bottom: 1em;
+    background-color: black;
+}
+
+.main-container{
+    display: flex;
+    flex-direction: column;
+}
+
+.skills-section{
+    display: flex;
+    flex-direction: row;
+
+    margin-bottom: 1em;
+}
+
+.projects-section{
+    display: flex;
+    flex-direction: row;
+
+    margin-bottom: 1em;
+}
+
+.project-cards{
+    margin: 1em;
+
+    padding: 1em;
+}
+
+.footer{
+    margin-bottom: 2em;
+}
+
+
